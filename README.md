@@ -4,4 +4,4 @@
 
 ### Recursion
 
-1. ![Flood Fill Algoithm](FloodFillAlgorithm.py)
+1. [Flood Fill Algoithm](FloodFillAlgorithm.py)
