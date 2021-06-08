@@ -1,6 +1,5 @@
 
-# Top Coding Questions From GeeksForGeeks
+# [Top Coding Questions From GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#recursion)
 
-[Click Here](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#recursion)
 
-## 1. Recursion
+1. Recursion
