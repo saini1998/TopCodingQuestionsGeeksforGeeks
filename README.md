@@ -5,3 +5,5 @@
 2. [Is Binary Number A Multiple Of Three](IsBinNumAMulOfThree.py)
 3. [Key Pair](KeyPair.py)
 4. [Number of Paths](NumberOfPaths.py)
+5. [Kadane's Algorithm](KadaneAlgorithm.py)
+
