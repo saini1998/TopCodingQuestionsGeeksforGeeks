@@ -8,3 +8,4 @@
 5. [Kadane's Algorithm](KadaneAlgorithm.py)
 6. [Missing Number in Array](MissingNumberInArray.py)
 7. [Majority Element](MajorityElement.py)
+8. [Search in Rotated Array](SearchInRotatedArray.py)
