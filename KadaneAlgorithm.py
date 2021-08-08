@@ -48,10 +48,6 @@ class Solution:
     def maxSubArraySum(self,a,size):
         maxSoFar = a[0]
         currMax = a[0]
-
-        start =0
-        end = 0
-        s = 0
         
         for i in range(1,size):
             currMax = max(a[i],currMax + a[i])

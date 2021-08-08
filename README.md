@@ -6,4 +6,5 @@
 3. [Key Pair](KeyPair.py)
 4. [Number of Paths](NumberOfPaths.py)
 5. [Kadane's Algorithm](KadaneAlgorithm.py)
+6. [Missing Number in Array](MissingNumberInArray.py)
 
