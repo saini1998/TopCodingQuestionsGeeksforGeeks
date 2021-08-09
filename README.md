@@ -12,3 +12,4 @@
 9. [Largest alphabet in string that is both upper and lower case](LargestAlphaInString.py)
 10. [Array of distinct integers with sum zero](DistinctIntegerZeroSum.py)
 11. [Longest Happy String](LongestHappyString.py)
+12. [Check for BST](CheckBST.py)
