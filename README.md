@@ -9,3 +9,6 @@
 6. [Missing Number in Array](MissingNumberInArray.py)
 7. [Majority Element](MajorityElement.py)
 8. [Search in Rotated Array](SearchInRotatedArray.py)
+9. [Largest alphabet in string that is both upper and lower case](LargestAlphaInString.py)
+10. [Array of distinct integers with sum zero](DistinctIntegerZeroSum.py)
+11. [Longest Happy String](LongestHappyString.py)
