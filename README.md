@@ -14,3 +14,11 @@
 11. [Longest Happy String](LongestHappyString.py)
 12. [Check for BST](CheckBST.py)
 13. [Middle element in a Linked List](MiddleLinkedList.py)
+14. [Root to leaf path sum](RootLeafPathSum.py)
+15.
+16.
+17.
+18.
+19.
+20.
+21.
