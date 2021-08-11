@@ -16,7 +16,7 @@
 13. [Middle element in a Linked List](MiddleLinkedList.py)
 14. [Root to leaf path sum](RootLeafPathSum.py)
 15. [Reverse a linked list](ReverseLinkedList.py)
-16.
+16. [Remove every k'th node](RemoveKNode.py)
 17.
 18.
 19.
