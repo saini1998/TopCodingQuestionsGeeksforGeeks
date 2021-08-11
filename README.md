@@ -17,7 +17,7 @@
 14. [Root to leaf path sum](RootLeafPathSum.py)
 15. [Reverse a linked list](ReverseLinkedList.py)
 16. [Remove every k'th node](RemoveKNode.py)
-17.
+17. [Merge two sorted linked lists in reverse order](MergeTwoLinkedListReverse.py)
 18.
 19.
 20.
