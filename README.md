@@ -22,7 +22,7 @@
 19. [K largest elements](KLargestElements.py)
 20. [Mirror Tree](MirrorTree.py)
 21. [Two Tress Identical](TwoTreesIdentical.py)
-22. [Check for palindrome](CheckNumberPalinddrome.py)
+22. [Check for palindrome](CheckNumberPalindrome.py)
 23. [Common elements in two lists](CommonElements.py)
 24. [Day of the week](DayOfTheWeek.py)
 25. [Days from the start of the year](DayOfTheYear.py)
