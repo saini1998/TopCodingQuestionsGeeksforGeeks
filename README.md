@@ -1,5 +1,5 @@
 
-# [Top Coding Questions From GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#recursion)
+# Coding Questions From [GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#recursion) And Others
 
 1. [Flood Fill Algoithm](FloodFillAlgorithm.py)
 2. [Is Binary Number A Multiple Of Three](IsBinNumAMulOfThree.py)
