@@ -44,18 +44,27 @@ class Solution:
         result = ''
         while A > 0 or B > 0 or C > 0:
             arr = []
+            print("arr: ", arr)
+            print("A: ", A, " B: ", B, " C: ", C)
+            print("result: ", result)
             if A and (len(result) < 2 or result[-1] != 'a' or result[-2] != 'a'):
                 heapq.heappush(arr, (-A, 'a'))
+                print("A's If: ", arr)
             if B and (len(result) < 2 or result[-1] != 'b' or result[-2] != 'b'):
                 heapq.heappush(arr, (-B, 'b'))
+                print("B's If: ", arr)
             if C and (len(result) < 2 or result[-1] != 'c' or result[-2] != 'c'):
                 heapq.heappush(arr, (-C, 'c'))
+                print("C's If: ", arr)
             if not arr:
                 break            
             result += arr[0][1]
+            print("result: ", result)
             A -= arr[0][1] == 'a'
             B -= arr[0][1] == 'b'
-            C -= arr[0][1] == 'c'           
+            C -= arr[0][1] == 'c'  
+            print("after everything", end=" ")
+            print("A: ", A, " B: ", B, " C: ", C)         
 
         return result
 

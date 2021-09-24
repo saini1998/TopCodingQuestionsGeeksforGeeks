@@ -42,16 +42,30 @@ def findLength(str):
         total[i] = (total[i - 1] + int(str[i - 1]) - int('0'))
  
     ans = 0 
-
+    print("total:",end=' ')
+    print(total)
     l = 2
     while(l <= n):
- 
+        print("l before loop:", end=' ')
+        print(l)
+        print("Loop range: 0", end=' ')
+        print(n-l)
         for i in range(n - l + 1):
-
-            if (total[i + int(l / 2)] -total[i] == total[i + l] -total[i + int(l / 2)]):
+            print("i:", end=' ')
+            print(i)
+            a = total[i + l //2] -total[i]
+            b = total[i + l] -total[i + l // 2]
+            print("Check whether a: ", total[i + l //2], " - ",total[i], " = ",a, " == b: ",total[i + l]," - ",total[i + l // 2], " = ", b)
+            if (total[i + l // 2] -total[i] == total[i + l] -total[i + l // 2]):
                 ans = max(ans, l)
+                print("ans:", end=' ')
+                print(ans)
                 
         l = l + 2
+        print("l after loop:", end=' ')
+        print(l)
+    print("ans:", end=' ')
+    print(ans)
      
     return ans
     

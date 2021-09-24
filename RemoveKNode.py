@@ -112,6 +112,6 @@ if __name__ == '__main__':
         for i in values:
             llist.insert(i)
 
-        head = deleteK(llist.getHead(), k)
+        head = deleteK(llist.head, k)
         printList(head)
         

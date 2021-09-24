@@ -75,7 +75,7 @@ class BitManSolution:
 # Driver Code
 
 
-s = "011"
+s = "100"
 
 print("Type Casting Solution")
 ob = Solution()
@@ -86,3 +86,4 @@ print("Bit Manipulation Solution")
 obj = BitManSolution()
 newAns = ob.isDivisible(s)
 print(newAns)
+
