@@ -17,10 +17,10 @@ def solution(a, b):
 
         j += 1
     
-    print(sum)
+    # print(sum)
     return count
 
-A = [25,0]
-B = [0,25]
+A = [2, -2, 5, 3]
+B = [1,5,-1,1]
 
 print(solution(A,B))

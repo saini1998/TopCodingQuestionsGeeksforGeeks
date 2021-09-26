@@ -39,6 +39,5 @@
 34. [Reverse K Nodes in Linked List](reverseKNodesinLL.py)
 35. [Count Occurences of 0, 2, 4](zeroTwoFour.py)
 36. [Find Pairs In Two Arrays Such That A[i] - B[j] = A[j] - B[i] and i <= j](findPairsInTwoArray.py)
-
-
-This is change.
+37. [Names with maximum possibility that Alice can pick](numberOfStringAliceMakes.py)
+38. [Count number of letters needed to make every block in a string same](contiguousBlocks.py)
