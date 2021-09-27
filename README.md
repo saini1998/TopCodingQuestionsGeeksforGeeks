@@ -41,3 +41,7 @@
 36. [Find Pairs In Two Arrays Such That A[i] - B[j] = A[j] - B[i] and i <= j](findPairsInTwoArray.py)
 37. [Names with maximum possibility that Alice can pick](numberOfStringAliceMakes.py)
 38. [Count number of letters needed to make every block in a string same](contiguousBlocks.py)
+39. [Longest Arithmetic Sebsequence](longestArithmeticSubsequence.py)
+40. [Move zeros in a list to left](moveZerosToLEft.py)
+41. [Convert Binary Tree to Doubly Linked List](BinaryTreeToDLL.py)
+42. [Level order traversal of a binary tree](LevelOrderTraversalOfBT.py)
