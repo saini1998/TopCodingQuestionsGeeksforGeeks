@@ -39,10 +39,10 @@ def maxLen(arr):
         # Add the current element to the sum
         curr_sum += arr[i]
 
-        if arr[i] is 0 and max_len is 0:
+        if arr[i] == 0 and max_len == 0:
             max_len = 1
 
-        if curr_sum is 0:
+        if curr_sum == 0:
             max_len = i + 1
 
         # NOTE: 'in' operation in dictionary to search 
@@ -60,3 +60,4 @@ def maxLen(arr):
 
 # test array
 arr = [15, -2, 2, -8, 1, 7, 10, 13]
+print(maxLen(arr))
