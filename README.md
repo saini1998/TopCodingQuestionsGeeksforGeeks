@@ -45,3 +45,7 @@
 40. [Move zeros in a list to left](moveZerosToLeft.py)
 41. [Convert Binary Tree to Doubly Linked List](BinaryTreeToDLL.py)
 42. [Level order traversal of a binary tree](LevelOrderTraversalOfBT.py)
+43. [Longest Sub Array With Zero Sum](LongestSubArrayWithZeroSum.py)
+44. [Minimal Amplitude](minimalAmplitude.py)
+45. [Sort Array According To Other Array](SortArrayAccToOther.py)
+46. [Sort Elements By Frequency if Same then Smaller Number first](SortElementsByFrequencySameSmallerNumber.py)
