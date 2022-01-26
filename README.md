@@ -49,3 +49,4 @@
 44. [Minimal Amplitude](minimalAmplitude.py)
 45. [Sort Array According To Other Array](SortArrayAccToOther.py)
 46. [Sort Elements By Frequency if Same then Smaller Number first](SortElementsByFrequencySameSmallerNumber.py)
+47. [Find All Four Sum Numbers](FindAllFourSumNumbers.py)
