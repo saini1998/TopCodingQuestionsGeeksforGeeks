@@ -53,9 +53,9 @@ def fourSum(nums, target):
                     
                         left += 1
                         right -= 1
-        ansList = list(ans)
-        ansList.sort()
-        return ansList
+        # ansList = list(ans)
+        # ansList.sort()
+        return ans
 
 A = [10,2,3,4,5,7,8]
 K = 23
