@@ -52,3 +52,4 @@
 47. [Find All Four Sum Numbers](FindAllFourSumNumbers.py)
 48. [Swap Pairs Make Equal Sum](SwapPairsMakeEqualSum.py)
 49. [Special Keyboard](specialKeyboard.py)
+50. [Josephus Problem](josephusProblem.py)

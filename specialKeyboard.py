@@ -51,15 +51,11 @@ def optimalKeys(N):
             screen[n-1] = 0
 
             for b in range(n-3, 0, -1):
-                b_value = n - 3
-                curr_term_1 = n - b - 1
-                b_minus_one = b - 1
+
                 curr = (n-b-1)*screen[b-1]
-                screen_n_minus_one = screen[n-1]
+
                 if (curr > screen[n-1]):
                     screen[n-1] = curr
-
-        ans = screen[N-1]
              
         return screen[N-1]
 
