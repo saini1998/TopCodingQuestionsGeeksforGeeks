@@ -51,3 +51,4 @@
 46. [Sort Elements By Frequency if Same then Smaller Number first](SortElementsByFrequencySameSmallerNumber.py)
 47. [Find All Four Sum Numbers](FindAllFourSumNumbers.py)
 48. [Swap Pairs Make Equal Sum](SwapPairsMakeEqualSum.py)
+49. [Special Keyboard](specialKeyboard.py)

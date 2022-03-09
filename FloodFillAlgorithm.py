@@ -44,15 +44,16 @@ Constraints:
 class RecursionSolution:
     
     def floodFillUtil(self, image, x, y, p, n):
-	    R = len(image)
-	    C = len(image[0])
-	    if (x<0 or y<0 or x>=R or y>=C or image[x][y]!=p or image[x][y]==n):
-	        return
-	    image[x][y]=n
-	    self.floodFillUtil(image, x, y-1, p, n)
-	    self.floodFillUtil(image,x, y+1, p, n)
-	    self.floodFillUtil(image,x+1, y, p, n)
-	    self.floodFillUtil(image,x-1, y, p, n)
+        R = len(image)
+        C = len(image[0])
+        if (x<0 or y<0 or x>=R or y>=C or image[x][y]!=p or image[x][y]==n):
+            return
+            
+        image[x][y]=n
+        self.floodFillUtil(image, x, y-1, p, n)
+        self.floodFillUtil(image,x, y+1, p, n)
+        self.floodFillUtil(image,x+1, y, p, n)
+        self.floodFillUtil(image,x-1, y, p, n)
         
     def floodFill(self, image, sr, sc, newColor):
         prevColor = image[sr][sc]

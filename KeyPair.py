@@ -35,13 +35,13 @@ Constraints:
 
 class Solution:
 	def hasArrayTwoCandidates(self,arr, n, x):
-	    s = set()
-	    for i in range(0, n):
-	        temp = x - arr[i]
-	        if (temp in s):
-	            return temp
-	            
-	        s.add(arr[i])
+		s = set()
+		for i in range(0, n):
+			temp = x - arr[i]
+			if (temp in s):
+				return temp
+				
+			s.add(arr[i])
 
 
 A = [1, 4, 45, 6, 10, 8]
