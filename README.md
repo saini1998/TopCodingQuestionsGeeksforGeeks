@@ -53,3 +53,4 @@
 48. [Swap Pairs Make Equal Sum](SwapPairsMakeEqualSum.py)
 49. [Special Keyboard](specialKeyboard.py)
 50. [Josephus Problem](josephusProblem.py)
+51. [Google FooBar Challenge Level 1](GoogleFooBar1.py)
