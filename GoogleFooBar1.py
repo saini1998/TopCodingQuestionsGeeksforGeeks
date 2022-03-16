@@ -13,3 +13,12 @@ def solution(x):
 a = "Yvzs! I xzm'g"
 
 solution(a)
+
+"""
+Question.
+
+Decode the string. 
+Leave punctuations and capital letters as it is. 
+Encoding is done for small letters only. So a->z, b->y, c->x,...,y->b,z->a.
+
+"""

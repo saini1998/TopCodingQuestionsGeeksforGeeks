@@ -54,3 +54,6 @@
 49. [Special Keyboard](specialKeyboard.py)
 50. [Josephus Problem](josephusProblem.py)
 51. [Google FooBar Challenge Level 1](GoogleFooBar1.py)
+52. [Perform Operations on Array to reverse elements](performOperations.py)
+53. [Unique Two Sums](uniqueTwoSums.py)
+54. [Intersection with duplicated](intersectionWithDuplicates.py)
