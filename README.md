@@ -57,3 +57,5 @@
 52. [Perform Operations on Array to reverse elements](performOperations.py)
 53. [Unique Two Sums](uniqueTwoSums.py)
 54. [Intersection with duplicated](intersectionWithDuplicates.py)
+55. [Kth largest element in a stream](KthLargestElementStream.py)
+56. [Merge K sorted Linked Lists](MergeKSortedLinkedLists.py)
