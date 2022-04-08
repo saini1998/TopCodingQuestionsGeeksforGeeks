@@ -59,3 +59,4 @@
 54. [Intersection with duplicated](intersectionWithDuplicates.py)
 55. [Kth largest element in a stream](KthLargestElementStream.py)
 56. [Merge K sorted Linked Lists](MergeKSortedLinkedLists.py)
+62. [Rearrange Characters](rearrangeCharacters.py)
