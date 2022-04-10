@@ -84,7 +84,7 @@ class Solution:
 
         mergedLL = LinkedList()
         n = len(heap)
-        for i in range(0,n):
+        for _ in range(0,n):
             mergedLL.add(hq.heappop(heap))
 
         return mergedLL.head
