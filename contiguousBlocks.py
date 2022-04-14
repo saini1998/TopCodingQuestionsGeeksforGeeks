@@ -1,5 +1,5 @@
 
-s = 'aabbaabbaabb'
+s = 'aabbbaabbaaaabb'
 l = ['']
 
 for i,c in enumerate(s):
@@ -22,6 +22,7 @@ m = max(lt)
 
 for i in lt:
     sum += (m-i)
+    print("sum = ", sum)
     
 
 print(sum)

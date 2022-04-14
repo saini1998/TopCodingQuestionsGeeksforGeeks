@@ -62,3 +62,5 @@
 57. [Rearrange Characters](rearrangeCharacters.py)
 58. [Binary Heap Operations](binaryHeapOperations.py)
 59. [Minimum Amount](minimumAmount.py)
+60. [Break a palindrome](BreakPalindrome.py)
+61. [Heap Sort](heapSort.py)

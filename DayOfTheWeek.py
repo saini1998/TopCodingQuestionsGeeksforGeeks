@@ -33,8 +33,8 @@ import calendar
 
 class Solution:
     def dayOfTheWeek(self, d: int, m: int, y: int) -> str:
-    	return date(y,m,d).strftime("%A")
-
+        return date(y,m,d).strftime("%A")
+    
     def dayOfTheWeek1(self, day: int, month: int, year: int) -> str:
         prev_year = year - 1
         days = prev_year * 365 + prev_year // 4 - prev_year // 100 + prev_year // 400

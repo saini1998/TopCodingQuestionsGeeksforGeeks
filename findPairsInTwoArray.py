@@ -17,7 +17,7 @@ def solution(a, b):
 
         j += 1
     
-    # print(sum)
+    print(sum)
     return count
 
 A = [2, -2, 5, 3]

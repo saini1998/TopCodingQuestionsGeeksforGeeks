@@ -64,15 +64,9 @@ Constraints:
 """
 from heapq import *
 
+from numpy import empty
+
 def insertKey(x):
-    heapIsDefault = True
-    for h in heap:
-        if h != 0:
-            heapIsDefault = False
-            break
-    if heapIsDefault:
-        heap.clear()
-            
     heappush(heap, x)
     return
 
@@ -86,19 +80,14 @@ def decreaseKey(i, newValue):
     return
 
 def deleteKey(i):
-    if i >= len(heap):
+    if len(heap) == 0:
         return -1
     decreaseKey(i, -1)
     extractMin()
     return
     
 def extractMin():
-    heapEmpty = True
-    for h in heap:
-        if h != 0:
-            heapEmpty = False
-            break
-    if heapEmpty:
+    if len(heap) == 0:
         return -1
     top = heappop(heap)
     return top
@@ -108,19 +97,12 @@ def getMin():
 
 # global
 heap = []
-currSize = 0
 
 if __name__ == "__main__":
     t = int(input("enter number of test cases: "))
     while t:
         n = int(input("enter number of queries: "))
         a = list(map( int, input("enter queries with spaces: ").strip().split() ))
-
-        curSize = 0
-        heap = [0 for i in range(n)]
-
-        # print("querries as list: ", a)
-        # print("heap at start: ", heap)
 
         i = 0
         while i<len(a):
