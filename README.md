@@ -64,3 +64,4 @@
 59. [Minimum Amount](minimumAmount.py)
 60. [Break a palindrome](BreakPalindrome.py)
 61. [Heap Sort](heapSort.py)
+62. [Left View of Binary Tree](LeftViewBinaryTree.py)
